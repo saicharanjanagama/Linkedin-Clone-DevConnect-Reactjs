@@ -1,4 +1,4 @@
-<h1 align="center">🔗 LinkedIn Clone</h1>
+<h1 align="center">🔗 DevConnect(LinkedIn Clone)</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Frontend-React.js-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Backend-Firebase-orange?style=for-the-badge" />
@@ -15,7 +15,7 @@
 ---
 
 ## 🚀 Live Demo
-🔗 **View Project:** [🔗 LinkedIn Clone](https://linkedin-clone-accd3.web.app/)
+🔗 **View Project:** [🔗 DevConnect(LinkedIn Clone)](https://linkedin-clone-accd3.web.app/)
 
 📸 **Preview:**
 <p align="center">
